@@ -1,6 +1,6 @@
 # [ws-wouchat-delphi]
 
-Programa desenvolvido em Delphi para realizar conversas através de conecção TCP/IP.
+Program developed in Delphi to carry out conversations over the TCP / IP connection.
 
 Site: www.fernandocelmer.com
 </br>
