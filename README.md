@@ -1,4 +1,4 @@
-# [ws-wouchat]
+# [ws-wouchat-delphi]
 
 Programa desenvolvido em Delphi para realizar conversas através de conecção TCP/IP.
 
