@@ -1,6 +1,6 @@
 # [ws-wouchat-delphi]
 
-<b>Abstract: Program developed in Delphi to carry out conversations over the TCP / IP connection.</b>
+<b>Abstract: Program developed in Delphi to carry out conversations over the TCP/IP connection.</b>
 ___
 WouChat é um programa de chat para conversar com outras pessoas por TCP/IP, podendo falar com vários usuários ao mesmo tempo. Este software pode ser utilizado como servidor ou cliente. Quando o software de bate-papo é iniciado, ele pede o número da porta e o endereço IP do servidor que é o endereço de IP do seu amigo que criou o servidor.
 
